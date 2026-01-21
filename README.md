@@ -1,4 +1,4 @@
-# 📑 Fit4All (모두의핏) | Planning & Product Management
+# 📑 All4Fit (모두의핏) | Planning & Product Management
 
 > **"모두를 위한 운동, 모두의핏"**
 > 비즈니스 전략부터 실서비스 런칭까지 제품 생애주기를 총괄한 기획 및 PM 레포지토리입니다.
