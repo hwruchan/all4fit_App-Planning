@@ -32,6 +32,16 @@
 * **Stakeholder Management**: Discord를 통한 개발팀과의 실시간 소통 및 런칭 리스크 관리
 
 ---
+## 🎨 Service Journey: 기획에서 서비스까지
+
+아이디어 구상부터 최종 배포까지, 프로젝트가 완성되는 전 과정을 시각화했습니다.
+
+| **1. 화면 기획서** | **2. 디자인 시스템** | **3. 랜딩 페이지** | **4. 앱 화면** |
+| :---: | :---: | :---: | :---: |
+| <img src="images/readme/wireframe.png" width="200" alt="Wireframe"> | <img src="images/readme/design-system.png" width="200" alt="Design System"> | <img src="images/readme/web-preview.jpeg" width="200" alt="Landing Page"> | <img src="images/readme/app-combined.png" width="200" alt="App Screen"> |
+| *UX 흐름 및 와이어프레임* | *Figma 디자인 시스템* | *[all4fit.co.kr](https://all4fit.co.kr)* | *iOS/Android 실서비스* |
+
+---
 
 ## 📂 Planning Assets
 
