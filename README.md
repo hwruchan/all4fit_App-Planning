@@ -3,7 +3,6 @@
 > **"모두를 위한 운동, 모두의핏"**
 > 비즈니스 전략부터 실서비스 런칭까지 제품 생애주기를 총괄한 기획 및 PM 레포지토리입니다.
 
-[![Website](https://img.shields.io/badge/Website-Live_Now-4C6EF5?logo=airplay)](https://all4fit.co.kr) 
 [![Figma-Wireframe](https://img.shields.io/badge/Figma-Wireframe-F24E1E?logo=figma)](https://www.figma.com/design/eyFKN28IKXV25Y28znWMal/%EB%AA%A8%EB%91%90%EC%9D%98%ED%95%8F?node-id=956-9629&p=f&t=lwi8aExGpe3KI3iF-0)
 [![Figma-Design](https://img.shields.io/badge/Figma-Design_System-F24E1E?logo=figma)](https://www.figma.com/design/b0fqhktMUDGrF5fhYzFuND/-%EB%AA%A8%EB%91%90%EC%9D%98-%ED%95%8F--1%EC%B0%A8-%EA%B0%9C%EB%B0%9C-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&p=f&t=dOeURwDLAvbYEj5v-0)
 [![Discord](https://img.shields.io/badge/Discord-Communication-5865F2?logo=discord&logoColor=white)](https://discord.com)
